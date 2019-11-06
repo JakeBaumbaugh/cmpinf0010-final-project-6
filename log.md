@@ -1,4 +1,5 @@
-#METRIC: Distance from playgrounds and schools to contained trash fires.
+#METRIC:
+Distance from playgrounds and schools to contained trash fires.
 
 #ALTERNATIVES:
 - Distance from playgrounds to crime
